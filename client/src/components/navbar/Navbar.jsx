@@ -11,7 +11,7 @@ const Navbar = () => {
     <div className={classes.container}>
       <div className={classes.wrapper}>
         <div className={classes.left}>
-          <Link to='/'>WebDevMania</Link>
+          <Link to='/'>MyBlog</Link>
         </div>
         <ul className={classes.center}>
           <li className={classes.listItem}>Home</li>
